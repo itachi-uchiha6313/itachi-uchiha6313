@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about HTML
 - 📫 How to reach me: t.me/Itachi121005
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I dunno programming
+- ⚡ Fun fact: I dunno programming (Kidding)
 
 
 ![](https://komarev.com/ghpvc/?username=Itachi121005)
